@@ -14,10 +14,12 @@
 
 ACF.ActiveMissiles = ACF.ActiveMissiles or {}
 ACF.ActiveRadars = ACF.ActiveRadars or {}
+ACF.ActiveSensors = ACF.ActiveSensors or {}
 
 ACF.MaxDamageInaccuracy = 1000
 
 ACFM.DefaultRadarSound = "buttons/button16.wav"
+ACFM.DefaultSensorSound = "buttons/blip2.wav"
 
 resource.AddWorkshop("403587498")
 
